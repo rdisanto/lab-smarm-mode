@@ -6,3 +6,5 @@
 .terraform/
 
 \.idea/
+
+terraform\.tfstate\.d/
