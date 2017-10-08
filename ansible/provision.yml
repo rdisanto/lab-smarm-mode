@@ -1,8 +1,8 @@
-- name: Wait a bit before starting provisionning
+- name: Wait 20sec before starting provisionning
   hosts: localhost
   gather_facts: no
   tasks:
-    - raw: sleep 10
+    - raw: sleep 20
 
 - name: Install Ansible Prereqs
   hosts: swarm-master:swarm-nodes
