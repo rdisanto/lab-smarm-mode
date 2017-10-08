@@ -8,3 +8,5 @@
 \.idea/
 
 terraform\.tfstate\.d/
+
+*.retry
