@@ -10,3 +10,5 @@
 terraform\.tfstate\.d/
 
 *.retry
+
+swarm-inventory
