@@ -4,3 +4,11 @@
 
 # Module directory
 .terraform/
+
+\.idea/
+
+terraform\.tfstate\.d/
+
+*.retry
+
+swarm-inventory
